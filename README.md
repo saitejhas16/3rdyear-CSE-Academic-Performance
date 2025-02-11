@@ -6,7 +6,7 @@ This project presents an **interactive performance dashboard** for CSE 3rd-year 
 The dashboard includes key metrics such as **highest marks, subject-wise performance, total marks per student, and condonation analysis** using various interactive visualizations.
 
 ## 🔗 Live Project
-[📊 Click here to view the dashboard](YOUR_PROJECT_LINK)
+[📊 Click here to view the dashboard](https://github.com/saitejhas16/3rdyear-CSE-Academic-Performance/blob/main/cseacademicperformance_dashboard_image.jpg)
 
 ---
 
